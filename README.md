@@ -1,6 +1,6 @@
 
 # Hello, I'm Alemayehu Dabi 👋
-<br>Welcome to my GitHub profile! I'm passionate about technology in general, and I enjoy working on Website and so on other Software applications.<br>
+<br>Welcome to my GitHub profile! I'm passionate about Science and Technology, and I enjoy working on Website and some other Software applications.<br>
 ## About Me<br><br>
 - 🌱 I’m currently learning and work on Websites<br>
 - 🎓 I'm currently pursuing a degree in CoTM from Addis Ababa University.<br />
