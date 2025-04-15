@@ -3,7 +3,7 @@
 <br>Welcome to my GitHub profile! I'm passionate about Science and Technology, and I enjoy working on Website and some other Software applications.<br>
 ## About Me<br><br>
 - 🌱 I’m currently learning and work on Websites<br>
-- 🎓 I'm currently pursuing a degree in CoTM from Addis Ababa University.<br />
+- 🎓 I'm pursuing a degree in CoTM from Addis Ababa University.<br />
 - 📫 How to reach me: alemayehudabi606@gmail.com<br>
 - 😄 Pronouns: He/Him <br>
 
