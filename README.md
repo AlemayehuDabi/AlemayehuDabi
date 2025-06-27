@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning and work on Websites<br>
 - 🎓 I'm pursuing a degree in CoTM from Addis Ababa University.<br />
 - 📫 How to reach me: alemayehudabi606@gmail.com<br>
+-    portifolio: https://alemayehudabi1214.vercel.app/
 
 ## Skills
 
