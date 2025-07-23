@@ -24,7 +24,7 @@
 
 ## Contact Me
 
-- **Email**: alemayehudabi606@gmail.com / alexdabi606@gmail.com
+- **Email**: alemayehudabi606@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/alemayehu-dabi-79b5212a1/
 
 ## 📊 GitHub Stats:
