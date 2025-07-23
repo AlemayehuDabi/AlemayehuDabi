@@ -25,7 +25,7 @@
 ## Contact Me
 
 - **Email**: alemayehudabi606@gmail.com / alexdabi606@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/alemayehu-dabi-79b5212a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- **LinkedIn**: https://www.linkedin.com/in/alemayehu-dabi-79b5212a1/
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AlemayehuDabi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
