@@ -1,39 +1,100 @@
+<!-- ✨ README designed & polished by GPT-5 for Alemayehu Dabi -->
 
-# Hello, I'm Alemayehu Dabi 👋
-<br>Welcome to my GitHub profile! I'm passionate about Science and Technology, and I enjoy working on Website and some other Software applications.<br>
-## About Me<br><br>
-- 🌱 I’m currently learning and work on Websites<br>
-- 🎓 I'm pursuing a degree in CoTM from Addis Ababa University.<br />
-- 📫 How to reach me: alemayehudabi606@gmail.com<br>
--    portifolio: https://alemayehudabi1214.vercel.app/
+<h1 align="center">Hey there, I'm <a href="https://alemayehudabi1214.vercel.app" target="_blank">Alemayehu Dabi 👋</a></h1>
 
-## Skills
+<h3 align="center">🚀 Passionate Developer | 🌍 Addis Ababa, Ethiopia</h3>
 
-- **Languages**: <br />
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  
-- **Frameworks and Libraries**: <br>
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  
-- **Tools**:<br /> ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Vistual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+<p align="center">
+  <a href="mailto:alemayehudabi606@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail&logoColor=white&color=red" /></a>
+  <a href="https://www.linkedin.com/in/alemayehu-dabi-79b5212a1/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" /></a>
+  <a href="https://alemayehudabi1214.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=vercel" /></a>
+</p>
 
-## Contact Me
+---
 
-- **Email**: alemayehudabi606@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/alemayehu-dabi-79b5212a1/
+### 🧠 About Me  
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AlemayehuDabi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AlemayehuDabi&theme=dark&hide_border=false)<br/>
-## Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlemayehuDabi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+💡 I’m deeply passionate about **science and technology**, building innovative **web and software applications** that make an impact.  
+🎓 Currently pursuing my degree in **CoTM** at **Addis Ababa University**.  
+🌱 Continuously learning and exploring **modern web development** and **AI-assisted systems**.  
+💬 Ask me about **React**, **TypeScript**, **Node.js**, or **AI-driven apps**.  
+📫 Reach me at **[alemayehudabi606@gmail.com](mailto:alemayehudabi606@gmail.com)**  
 
+---
 
-Thank you for visiting my profile!
+### ⚙️ Tech Stack  
 
+#### 💻 Languages  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
+#### 🧩 Frameworks & Libraries  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+#### 🛠 Tools & Platforms  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 🚀 Featured Projects  
+
+| Project | Description | Tech |
+|----------|--------------|------|
+| [**Fidel_AI**](https://github.com/BemnetMussa/Fidel_AI) | Mobile-first AI chat app delivering intelligent conversations via scalable architecture. | TypeScript |
+| [**RAG_AI_Assistance**](https://github.com/AlemayehuDabi/RAG_AI_Assistance) | A context-aware assistant using Gemini + ChromaDB for grounded, efficient conversation. | Python |
+| [**BookMark**](https://github.com/AlemayehuDabi/BookMark) | Bookmark management app with TypeScript and clean modular design. | TypeScript |
+| [**Kuchet**](https://github.com/AlemayehuDabi/Kuchet) | A modern web-based management system. | TypeScript |
+
+---
+
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlemayehuDabi&show_icons=true&theme=react&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlemayehuDabi&layout=compact&theme=react&hide_border=true" />
+</p>
+
+---
+
+### 🔥 Contribution Streak  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AlemayehuDabi&theme=react&hide_border=true" />
+</p>
+
+---
+
+### 🌀 Dynamic Touches  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+and+Software+Enthusiast;Always+Learning+New+Things;Building+Cool+Stuff+with+TypeScript+💻" />
+</p>
+
+---
+
+### 🤝 Connect with Me  
+
+<p align="center">
+  <a href="mailto:alemayehudabi606@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail-new.png" width="40"/></a>
+  <a href="https://www.linkedin.com/in/alemayehu-dabi-79b5212a1/"><img src="https://img.icons8.com/fluency/48/linkedin.png" width="40"/></a>
+  <a href="https://alemayehudabi1214.vercel.app/"><img src="https://img.icons8.com/fluency/48/domain.png" width="40"/></a>
+</p>
+
+---
+
+### 🧩 Fun Fact  
+> “I don't just write code — I craft digital experiences.” ✨  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AlemayehuDabi&theme=onestar&no-frame=true&margin-w=10&row=1" />
+</p>
+
+---
+
+⭐ **Thanks for stopping by!** Feel free to check out my repositories and connect 🚀  
