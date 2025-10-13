@@ -62,14 +62,6 @@
 
 ---
 
-### 🔥 Contribution Streak  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AlemayehuDabi&theme=react&hide_border=true" />
-</p>
-
----
-
 ### 🌀 Dynamic Touches  
 
 <p align="center">
@@ -84,15 +76,6 @@
   <a href="mailto:alemayehudabi606@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail-new.png" width="40"/></a>
   <a href="https://www.linkedin.com/in/alemayehu-dabi-79b5212a1/"><img src="https://img.icons8.com/fluency/48/linkedin.png" width="40"/></a>
   <a href="https://alemayehudabi1214.vercel.app/"><img src="https://img.icons8.com/fluency/48/domain.png" width="40"/></a>
-</p>
-
----
-
-### 🧩 Fun Fact  
-> “I don't just write code — I craft digital experiences.” ✨  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AlemayehuDabi&theme=onestar&no-frame=true&margin-w=10&row=1" />
 </p>
 
 ---
