@@ -1,6 +1,6 @@
 <!-- ✨ README designed & polished by GPT-5 for Alemayehu Dabi -->
 
-<h1 align="center">Hey there, I'm <a href="https://alemayehudabi1214.vercel.app" target="_blank">Alemayehu Dabi 👋</a></h1>
+<h1 align="center">Hey there, I'm <a href="https://alemayehudabi.vercel.app" target="_blank">Alemayehu Dabi 👋</a></h1>
 
 <h3 align="center">🚀 Passionate Developer | 🌍 Addis Ababa, Ethiopia</h3>
 
