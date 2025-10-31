@@ -55,11 +55,31 @@
 
 ### 📊 GitHub Stats  
 
-<p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=AlemayehuDabi&show_icons=true&theme=tokyonight&hide_border=true" height="150" /> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AlemayehuDabi&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlemayehuDabi&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+<p align="center" style="display:flex; justify-content:center; align-items:center; gap:15px; flex-wrap:wrap;">
+  
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=AlemayehuDabi&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="160" 
+    alt="GitHub Stats" 
+  />
+  
+  <!-- Contribution Streak (Vercel-hosted fork) -->
+  <img 
+    src="https://streak-stats.demolab.com?user=AlemayehuDabi&theme=tokyonight&hide_border=true" 
+    height="160" 
+    alt="GitHub Streak" 
+  />
+  
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlemayehuDabi&layout=compact&theme=tokyonight&hide_border=true" 
+    height="160" 
+    alt="Top Languages" 
+  />
+  
 </p>
+
 
 
 ---
