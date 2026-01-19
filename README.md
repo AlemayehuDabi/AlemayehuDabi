@@ -1,11 +1,27 @@
-<!-- ✨ README designed & polished by GPT-5 for Alemayehu Dabi -->
+# Alemayehu Dabi
+**Software Engineer | Addis Ababa, Ethiopia**
 
-<h1 align="center">Hey there, I'm <a href="https://alemayehudabi.vercel.app" target="_blank">Alemayehu Dabi 👋</a></h1>
+Building scalable applications and solving complex problems with clean, maintainable code.
 
-<h3 align="center">🚀 Passionate Developer | 🌍 Addis Ababa, Ethiopia</h3>
+[Portfolio](https://alemayehudabi.vercel.app) • [LinkedIn](https://www.linkedin.com/in/alemayehu-dabi-79b5212a1/) • [Email](mailto:alemayehudabi606@gmail.com)
 
-<!-- <p align="center">
-  <a href="mailto:alemayehudabi606@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail&logoColor=white&color=red" /></a>
-  <a href="https://www.linkedin.com/in/alemayehu-dabi-79b5212a1/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" /></a>
-  <a href="https://alemayehudabi1214.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=vercel" /></a>
-</p> -->
+---
+
+### 💻 Technical Stack
+
+*   **Languages:** JavaScript (ES6+), TypeScript, Python, Java
+*   **Frontend:** React.js, Next.js, Tailwind CSS, Redux
+*   **Backend:** Node.js, Express, RESTful APIs, GraphQL
+*   **Databases & Tools:** PostgreSQL, MongoDB, Docker, Git, AWS
+
+### 🚀 Key Focus Areas
+- **Scalable Architecture:** Designing systems that handle growth efficiently.
+- **Performance Optimization:** Writing high-performance code and optimizing web vitals.
+- **Full-Stack Development:** End-to-end product delivery from database schema to UI.
+
+### 📊 GitHub Metrics
+![Alemayehu's GitHub stats](https://github-readme-stats.vercel.app/api?username=alemayehudabi&show_icons=true&theme=transparent&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alemayehudabi&layout=compact&theme=transparent&hide_border=true)
+
+---
+*“Done is better than perfect, but quality is non-negotiable.”*
