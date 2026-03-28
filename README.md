@@ -9,10 +9,10 @@ Building scalable applications and solving complex problems with clean, maintain
 
 ### 💻 Technical Stack
 
-*   **Languages:** JavaScript (ES6+), TypeScript, Python, Java
-*   **Frontend:** React.js, Next.js, Tailwind CSS, Redux
-*   **Backend:** Node.js, Express, RESTful APIs, GraphQL
-*   **Databases & Tools:** PostgreSQL, MongoDB, Docker, Git, AWS
+*   **Languages:** JavaScript (ES6+), TypeScript, Python, Golang
+*   **Frontend:** React.js, Next.js, SvelteKit, Tailwind CSS, Redux, Zustand,
+*   **Backend:** Node.js, Express, Nest.js, FastApi, RESTful APIs, GraphQL
+*   **Databases & Tools:** PostgreSQL, MongoDB, Docker, Git
 
 ### 🚀 Key Focus Areas
 - **Scalable Architecture:** Designing systems that handle growth efficiently.
